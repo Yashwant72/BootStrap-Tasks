@@ -1,0 +1,51 @@
+.main {
+    background-image: url("./carousel-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 1265px;
+    height: 450px;
+    background-blend-mode: color-burn;
+
+
+}
+
+.main_content {
+    padding-bottom: 0px;
+    font-size: 32px;
+    font-weight: 600;
+    padding-top: 140px;
+    padding-bottom: 0px;
+}
+
+.main_content_big {
+    padding-top: 0px;
+    font-size: 63px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main a {
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+    color: white;
+    border: 2px solid white;
+
+}
+
+.main a:hover {
+    background-color: white;
+    color: black;
+}
+
+.footer {
+    height: 100px;
+}
+
+
+.footer_1 {
+    background-color: black;
+}
+
